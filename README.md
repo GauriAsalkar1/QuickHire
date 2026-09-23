@@ -4,10 +4,10 @@ Quick Hire is a local workforce hiring platform that connects employers with ski
 
 ## Live Demo
 
-Currently available as a source code project.
+🔗 https://quickhire-secure-recruitment.onrender.com/ 
 
----
-
+> Note: The application is hosted on Render's free tier and may take a short time to load on the first visit.
+> 
 ## Features
 
 - User Registration and Login
